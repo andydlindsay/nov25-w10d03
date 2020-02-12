@@ -7,6 +7,21 @@
 * [ ] Event Handling
 * [ ] Custom Events
 
+## Data down, behaviour down
+## Data down, events up
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Vue.js
 * The [official docs](https://vuejs.org/) describe Vue as being Approachable, Versatile, and Performant
 * Approachable

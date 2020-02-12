@@ -1,11 +1,11 @@
 # Intro to Vue.js
 
 ### To Do
-* [ ] What is Vue.js?
-* [ ] The Vue Instance
-* [ ] Vue Lifecycle Methods
-* [ ] Event Handling
-* [ ] Custom Events
+* [x] What is Vue.js?
+* [x] The Vue Instance
+* [x] Vue Lifecycle Methods
+* [x] Event Handling
+* [x] Custom Events
 
 ### Vue.js
 * The [official docs](https://vuejs.org/) describe Vue as being Approachable, Versatile, and Performant
